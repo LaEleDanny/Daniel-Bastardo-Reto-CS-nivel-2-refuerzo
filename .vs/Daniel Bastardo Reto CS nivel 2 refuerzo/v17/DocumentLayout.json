@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Danny\\source\\repos\\Daniel Bastardo Reto CS nivel 2 refuerzo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0089FA23-080C-4F7A-9D3D-B048870A1A39}|calculadora de calificaciones\\calculadora de calificaciones.csproj|c:\\users\\danny\\source\\repos\\daniel bastardo reto cs nivel 2 refuerzo\\calculadora de calificaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0089FA23-080C-4F7A-9D3D-B048870A1A39}|calculadora de calificaciones\\calculadora de calificaciones.csproj|solutionrelative:calculadora de calificaciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE2455EF-41B5-4CB8-B658-D4F9A3CA1C29}|loteria de numero\\loteria de numero.csproj|c:\\users\\danny\\source\\repos\\daniel bastardo reto cs nivel 2 refuerzo\\loteria de numero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE2455EF-41B5-4CB8-B658-D4F9A3CA1C29}|loteria de numero\\loteria de numero.csproj|solutionrelative:loteria de numero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2CFB65-FB7E-4175-A42D-ED400B13710F}|Daniel Bastardo Reto CS nivel 2 refuerzo\\Daniel Bastardo Reto CS nivel 2 refuerzo.csproj|c:\\users\\danny\\source\\repos\\daniel bastardo reto cs nivel 2 refuerzo\\daniel bastardo reto cs nivel 2 refuerzo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2CFB65-FB7E-4175-A42D-ED400B13710F}|Daniel Bastardo Reto CS nivel 2 refuerzo\\Daniel Bastardo Reto CS nivel 2 refuerzo.csproj|solutionrelative:daniel bastardo reto cs nivel 2 refuerzo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\source\\repos\\Daniel Bastardo Reto CS nivel 2 refuerzo\\loteria de numero\\Program.cs",
+              "RelativeDocumentMoniker": "loteria de numero\\Program.cs",
+              "ToolTip": "C:\\Users\\Danny\\source\\repos\\Daniel Bastardo Reto CS nivel 2 refuerzo\\loteria de numero\\Program.cs",
+              "RelativeToolTip": "loteria de numero\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwCAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T18:23:31.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\source\\repos\\Daniel Bastardo Reto CS nivel 2 refuerzo\\calculadora de calificaciones\\Program.cs",
+              "RelativeDocumentMoniker": "calculadora de calificaciones\\Program.cs",
+              "ToolTip": "C:\\Users\\Danny\\source\\repos\\Daniel Bastardo Reto CS nivel 2 refuerzo\\calculadora de calificaciones\\Program.cs",
+              "RelativeToolTip": "calculadora de calificaciones\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T17:18:46.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Danny\\source\\repos\\Daniel Bastardo Reto CS nivel 2 refuerzo\\Daniel Bastardo Reto CS nivel 2 refuerzo\\Program.cs",
+              "RelativeDocumentMoniker": "Daniel Bastardo Reto CS nivel 2 refuerzo\\Program.cs",
+              "ToolTip": "C:\\Users\\Danny\\source\\repos\\Daniel Bastardo Reto CS nivel 2 refuerzo\\Daniel Bastardo Reto CS nivel 2 refuerzo\\Program.cs",
+              "RelativeToolTip": "Daniel Bastardo Reto CS nivel 2 refuerzo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T15:30:53.174Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

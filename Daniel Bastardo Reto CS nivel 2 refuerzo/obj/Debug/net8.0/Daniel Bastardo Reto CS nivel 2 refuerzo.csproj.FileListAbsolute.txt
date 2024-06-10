@@ -1,0 +1,14 @@
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\Daniel Bastardo Reto CS nivel 2 refuerzo\bin\Debug\net8.0\Daniel Bastardo Reto CS nivel 2 refuerzo.exe
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\Daniel Bastardo Reto CS nivel 2 refuerzo\bin\Debug\net8.0\Daniel Bastardo Reto CS nivel 2 refuerzo.deps.json
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\Daniel Bastardo Reto CS nivel 2 refuerzo\bin\Debug\net8.0\Daniel Bastardo Reto CS nivel 2 refuerzo.runtimeconfig.json
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\Daniel Bastardo Reto CS nivel 2 refuerzo\bin\Debug\net8.0\Daniel Bastardo Reto CS nivel 2 refuerzo.dll
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\Daniel Bastardo Reto CS nivel 2 refuerzo\bin\Debug\net8.0\Daniel Bastardo Reto CS nivel 2 refuerzo.pdb
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\Daniel Bastardo Reto CS nivel 2 refuerzo\obj\Debug\net8.0\Daniel Bastardo Reto CS nivel 2 refuerzo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\Daniel Bastardo Reto CS nivel 2 refuerzo\obj\Debug\net8.0\Daniel Bastardo Reto CS nivel 2 refuerzo.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\Daniel Bastardo Reto CS nivel 2 refuerzo\obj\Debug\net8.0\Daniel Bastardo Reto CS nivel 2 refuerzo.AssemblyInfo.cs
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\Daniel Bastardo Reto CS nivel 2 refuerzo\obj\Debug\net8.0\Daniel Bastardo Reto CS nivel 2 refuerzo.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\Daniel Bastardo Reto CS nivel 2 refuerzo\obj\Debug\net8.0\Daniel Bastardo Reto CS nivel 2 refuerzo.dll
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\Daniel Bastardo Reto CS nivel 2 refuerzo\obj\Debug\net8.0\refint\Daniel Bastardo Reto CS nivel 2 refuerzo.dll
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\Daniel Bastardo Reto CS nivel 2 refuerzo\obj\Debug\net8.0\Daniel Bastardo Reto CS nivel 2 refuerzo.pdb
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\Daniel Bastardo Reto CS nivel 2 refuerzo\obj\Debug\net8.0\Daniel Bastardo Reto CS nivel 2 refuerzo.genruntimeconfig.cache
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\Daniel Bastardo Reto CS nivel 2 refuerzo\obj\Debug\net8.0\ref\Daniel Bastardo Reto CS nivel 2 refuerzo.dll

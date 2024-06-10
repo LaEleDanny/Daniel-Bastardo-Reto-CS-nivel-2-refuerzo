@@ -1,0 +1,14 @@
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\calculadora de calificaciones\bin\Debug\net8.0\calculadora de calificaciones.exe
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\calculadora de calificaciones\bin\Debug\net8.0\calculadora de calificaciones.deps.json
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\calculadora de calificaciones\bin\Debug\net8.0\calculadora de calificaciones.runtimeconfig.json
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\calculadora de calificaciones\bin\Debug\net8.0\calculadora de calificaciones.dll
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\calculadora de calificaciones\bin\Debug\net8.0\calculadora de calificaciones.pdb
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\calculadora de calificaciones\obj\Debug\net8.0\calculadora de calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\calculadora de calificaciones\obj\Debug\net8.0\calculadora de calificaciones.AssemblyInfoInputs.cache
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\calculadora de calificaciones\obj\Debug\net8.0\calculadora de calificaciones.AssemblyInfo.cs
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\calculadora de calificaciones\obj\Debug\net8.0\calculadora de calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\calculadora de calificaciones\obj\Debug\net8.0\calculadora de calificaciones.dll
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\calculadora de calificaciones\obj\Debug\net8.0\refint\calculadora de calificaciones.dll
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\calculadora de calificaciones\obj\Debug\net8.0\calculadora de calificaciones.pdb
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\calculadora de calificaciones\obj\Debug\net8.0\calculadora de calificaciones.genruntimeconfig.cache
+C:\Users\Danny\source\repos\Daniel Bastardo Reto CS nivel 2 refuerzo\calculadora de calificaciones\obj\Debug\net8.0\ref\calculadora de calificaciones.dll
